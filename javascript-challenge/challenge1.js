@@ -26,3 +26,4 @@ function sumNumbers(numbers){
     }
     console.log(sum);
 }
+let value=sumNumbers(numbers);

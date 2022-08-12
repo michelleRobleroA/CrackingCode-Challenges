@@ -26,5 +26,5 @@ function showProperty(obj, value){
     }
 }
 
-output = showProperty(demo,'cou');
+output = showProperty(demo,'country');
 console.log(output);

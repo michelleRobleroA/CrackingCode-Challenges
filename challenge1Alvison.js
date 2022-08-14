@@ -21,6 +21,6 @@ objB = { j: 9, i: 2, x: 3, z: 4 };
 objC = { w: 15, x: 22, y: 13 };
 
 // Result
-console.log(sumValues(objA));
-console.log(sumValues(objB));
-console.log(sumValues(objC));
+console.log(sumValues(objA)); // Expected 6
+console.log(sumValues(objB)); // Expected 18
+console.log(sumValues(objC)); // Expected 50
